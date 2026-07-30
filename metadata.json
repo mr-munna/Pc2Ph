@@ -1,0 +1,6 @@
+{
+  "name": "Mavxon Share",
+  "description": "Zero-Knowledge PC to phone E2E encrypted file transfer utility with WebSockets and WebRTC.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
